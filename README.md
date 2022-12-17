@@ -19,11 +19,10 @@ npm i
 ```
 
 3. Run the application:
-4. ```bash
-        node server
+ ```bash
+ node server
    ```
-   If you don't want to restart the application all the time, you can also use the experimental feature (as of Node 18):
-
+If you don't want to restart the application all the time, you can also use the experimental feature (as of Node 18):
 ```
 node --watch server
 ```
