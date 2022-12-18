@@ -26,3 +26,7 @@ If you don't want to restart the application all the time, you can also use the 
 ```
 node --watch server
 ```
+4. In the browser you can use:
+```
+localhost:3333
+```
